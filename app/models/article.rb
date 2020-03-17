@@ -1,6 +1,3 @@
 class Article < ApplicationRecord
-
-  validates :title, presence: fauls
-  aqqaaaaa
-
+  validates :title, presence: true
 end
