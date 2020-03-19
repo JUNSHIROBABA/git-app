@@ -47,7 +47,8 @@ class ArticlesController < ApplicationController
       else
         format.html { render :edit }
         format.json { render json: @article.errors, status: :unprocessable_entity }
-        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+
       end
     end
   end
